@@ -1,1 +1,1 @@
-# SAMP-Malinovka-DM-Source
+Исходный код Малиновки ДМ
