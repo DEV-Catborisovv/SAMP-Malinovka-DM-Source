@@ -1,0 +1,19 @@
+AddCharModel(114, 20001, "gopota.dff", "gopota.txd");
+AddCharModel(28, 20002, "skinhed.dff", "skinhed.txd");
+AddCharModel(28, 20003, "sexi_jopa.dff", "sexi_jopa.txd");
+AddCharModel(28, 20004, "separatist.dff", "separatist.txd");
+AddCharModel(114, 20005, "tramp.dff", "tramp.txd");
+AddCharModel(114, 20006, "crokodil_gena.dff", "crokodil_gena.txd");
+AddCharModel(114, 20007, "pidjak.dff", "pidjak.txd");
+AddCharModel(114, 20008, "rubaha.dff", "rubaha.txd");
+AddCharModel(0, 20009, "dino.dff", "dino.txd");
+AddCharModel(28, 20011, "mrakobes.dff", "mrakobes.txd");
+AddCharModel(28, 20012, "amongus.dff", "amongus.txd");
+AddCharModel(28, 20015, "troll.dff", "troll.txd");
+AddCharModel(162, 20016, "lenin.dff", "lenin.txd");
+AddCharModel(176, 20017, "vchskin.dff", "vchskin.txd");
+AddCharModel(176, 20018, "gopota_kurtka.dff", "gopota_kurtka.txd");
+AddCharModel(176, 20019, "anon.dff", "anon.txd");
+AddCharModel(176, 20020, "dnb3.dff", "dnb3.txd");
+
+AddSimpleModel(-1, 19379, 20201, "td.dff", "textdraws/logo.txd");

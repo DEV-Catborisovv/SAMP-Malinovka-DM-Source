@@ -1,0 +1,53 @@
+<section id="scrollDown" class="index6 hidden">
+    
+    <div class="arrow_down"></div>
+    <div class="arrow_down"></div>
+    <div class="arrow_down"></div>
+    
+</section>
+
+<section id="startGame" class="index5 hidden">
+    
+    <div class="start_title">Как начать игру?</div>
+    
+    <tr_l_reg_big></tr_l_reg_big>
+    <tr_l_reg_big></tr_l_reg_big>
+    <tr_l_reg_big></tr_l_reg_big>
+    
+    <div class="step __left index3 hidden">
+        
+        <div class="title">Скачайте GTA CR</div>
+        <div class="text">Чистая GTA Criminal Russia</div>
+        <a href='<?php echo config::downloads_dir; ?>GTA_CR.torrent' class="download">Скачать</a>
+        
+    </div>
+    <div class="step __right index2 hidden">
+        
+        <div class="title">Скачайте Multiplayer</div>
+        <div class="text">Устанавливается в папку с игрой</div>
+        <a href='<?php echo config::downloads_dir; ?>multiplayer-cr-g-install.exe' class="download">Скачать</a>
+        
+    </div>
+    <div class="step __left index3 hidden">
+        
+        <div class="title">Скачайте наш модпак</div>
+        <div class="text">Данный пакет модификаций не является обязательным. Устанавливается по желанию игроков. После установки Вас ждут новые машины, скины, оружие</div>
+        <a href='https://yadi.sk/d/2MQwmKv0wYPBC' class="download">Скачать</a>
+        
+    </div>
+    <div class="step __center index2 hidden">
+        
+        <div class="title">Подключение</div>
+        <div class="text">
+            1. Найдите в папке с игрой папку 'multiplayer_c', зайдите<br>
+            2. Откройте файл 'multiplayer_browser_cr'<br>
+            3. В приложении найдите галочку, нажмите на неё и вставьте наш IP<br>
+            4. Появится наш сервер, дважды кликните по нему и нажмите 'Подключиться'
+            <br><br>
+        </div>
+        <a href='crmp://<?php echo config::ip; ?>/' class="connect">Начать играть</a>
+        <font class="desc_text"><?php echo config::ip . ':' . config::port; ?></font>
+        
+    </div>
+    
+</section>
